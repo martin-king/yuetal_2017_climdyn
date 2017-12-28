@@ -1,1 +1,2 @@
-# yuetal_2017_climdyn
+Yu, King, Sobolowski, Otterå, Gao, 2017, Asian droughts in the last millennium: a search for robust impacts of Pacific Ocean surface temperature variabilities, Clim Dyn. https://link.springer.com/article/10.1007/s00382-017-3897-1
+Analyses and figures in the main body were all carried out by Entao Yu. I prepared the supplementary figures using the scripts stored here. Note that although the scripts were used in the research, the versions stored here may have values for some parameters which are not exactly the same as those used in the research. This is not meant for public distribution, only for my own use or record.
